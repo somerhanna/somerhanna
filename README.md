@@ -1,4 +1,4 @@
 Hi there, I'm @somerhanna 👋
-- 🔭 I’m currently working on my bacholers degree in Computer Engineering at SDSU
-- 🌱 I’m currently learning software engineering and electrical engineering
+- 🔭 I’m currently working on my technical skills of programming
+- 🌱 I’m currently learning electrical & software engineering
 - 📫 How to reach me: https://www.linkedin.com/in/somerhanna/
